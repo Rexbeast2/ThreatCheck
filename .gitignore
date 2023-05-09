@@ -1,0 +1,11 @@
+api.txt
+lapi.txt
+hosts.txt
+ThreatCheck.log
+ThreatCheck.html
+ThreatCheck.svg
+.vscode/
+exploits/
+__pycache__/
+modules/__pycache__
+modules/web/__pycache__
