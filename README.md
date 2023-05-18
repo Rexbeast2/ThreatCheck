@@ -16,14 +16,16 @@ ThreatCheck is a project for scanning vulnerabilities and exploiting systems aut
 - Easy to read output.
 - Specify your arguments using a config file.
 - Send scan results via webhook or email.
-- Works on Windows, MacOS and Linux.
-- Use as a [module!](#module-usage)
+- Works on Windows, MacOS and 
 
+Linux.
+- Use as a [module!](#module-usage)
 
 ## How does it work?
 
 ThreatCheck uses nmap TCP-SYN scan to enumerate the host and detect the version of softwares running on it. After gathering enough information about the host, ThreatCheck automatically generates a list of "keywords" to search [NIST vulnerability database.](https://www.nist.gov/)
 
+https://github.com/Rexbeast2/ThreatCheck/assets/78963782/d6d067d8-c8fe-46f3-80c6-d75e20150de5
 
 ## Installation
 
