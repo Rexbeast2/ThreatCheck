@@ -116,4 +116,4 @@ Reporting:
 
 ## Contributing to ThreatCheck
 
-I would be glad if you are willing to contribute this project. I am looking forward to merge your pull request unless its something that is not needed or just a personal preference. Also minor changes and bug fixes will not be merged. Please create an issue for those and I will do it myself. [Click here for more info!](https://github.com/Rexbeast2/ThreatCheck/blob/main/.github/CONTRIBUTING.md)
+I would greatly appreciate your contribution to this project. I am excited about the potential to enhance the productivity and usefulness of this tool through your suggestions. Whether you have a feature in mind or any improvements to make, please feel free to create a Pull Request or open an Issue. Rest assured, I will do my best to incorporate your ideas into the tool. Thank you in advance for your support!
